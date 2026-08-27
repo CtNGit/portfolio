@@ -111,7 +111,7 @@ Everything for rhgilewajkgwaejlgwejaga
 - luh photo dump
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Photo Dump .
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
