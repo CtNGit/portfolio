@@ -108,7 +108,7 @@ Everything for rhgilewajkgwaejlgwejaga
 
 - im 2 trim[family tree]({{site.baseurl}}/images/about/familytree.png)
 - not related to gagan swaroop repakula
-- luh photo dump
+- luh photo dump down below
 
 <comment>
 Photo Dump .
