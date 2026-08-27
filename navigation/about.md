@@ -104,7 +104,7 @@ Here is what I did at those places
 
 ### Culture, Family, and Fun
 
-Everything for rhgilewajkgwaejlgwejaga
+SD
 
 - im 2 trim[family tree]({{site.baseurl}}/images/about/familytree.png)
 - not related to gagan swaroop repakula
