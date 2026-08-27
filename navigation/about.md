@@ -106,9 +106,9 @@ Here is what I did at those places
 
 Everything for rhgilewajkgwaejlgwejaga
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- im 2 trim[family tree]({{site.baseurl}}/images/about/familytree.png)
+- not related to gagan swaroop repakula
+- luh photo dump
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
