@@ -96,7 +96,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is what schools I have attended in the past
 
 - 🏫 Stone Ranch Elementary '16-'23
 - 🏫 Oak Valley Middle '23-'26
