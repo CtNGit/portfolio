@@ -96,7 +96,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what schools I have attended in the past
+Here is what schools I have attended
 
 - 🏫 Stone Ranch Elementary '16-'23
 - 🏫 Oak Valley Middle '23-'26
@@ -109,3 +109,12 @@ SD
 - i am cool[family tree]({{site.baseurl}}/images/about/familytree.png)
 - not related to gagan swaroop repakula
 - 9th grade at DNHS
+
+<comment>
+Photo Dump (gallery)
+</comment>
+<div class="image-gallery">
+  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+</div>
