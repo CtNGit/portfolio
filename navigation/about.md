@@ -113,7 +113,7 @@ Here is what schools I attended in the past
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/WIN_20260828_11_06_51.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/WIN_20260828_11_06_51_Pro.jpg" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/basketball.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/mm2.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/gym.jpg" alt="Image 4">
