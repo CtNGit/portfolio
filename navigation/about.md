@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+Here are some places I have visited.
 
 <comment>
 Flags are made using Wikipedia images
@@ -61,6 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
+        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -96,34 +97,25 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is what schools I attended in the past
 
-- 🏫 Stone Ranch Elementary '16-'23
+- 🏫 Stone Ranch Elementary '17-'23
 - 🏫 Oak Valley Middle '23-'26
 - 🏫 Del Norte High '26-
 
 ### Culture, Family, and Fun
 
-SD
-
-- im 2 trim[family tree]({{site.baseurl}}/images/about/familytree.png)
-- not related to gagan swaroop repakula
-- luh photo dump down below
+- I go to DNHS and I am in 9th grade.
+- I have 1 brother.
+- I was born in San Diego.
 
 <comment>
-Photo Dump .
+Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/about/WIN_20260828_11_06_51.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/basketball.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/mm2.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/gym.jpg" alt="Image 4">
+
 </div>
