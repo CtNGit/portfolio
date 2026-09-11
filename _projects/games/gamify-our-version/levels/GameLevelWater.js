@@ -4,7 +4,6 @@ import Npc from '@assets/js/GameEnginev1.1/essentials/Npc.js';
 import GameControl from '@assets/js/GameEnginev1.1/essentials/GameControl.js';
 import piranha from '@assets/js/GameEnginev1.1/piranha.js';
 import GameLevelStarWars from './GameLevelStarWars.js';
-
 class GameLevelWater {
   constructor(gameEnv) {
     console.log("Initializing GameLevelWater...");
