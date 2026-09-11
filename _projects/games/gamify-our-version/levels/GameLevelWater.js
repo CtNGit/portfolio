@@ -2,7 +2,7 @@ import GameEnvBackground from '@assets/js/GameEnginev1.1/essentials/GameEnvBackg
 import Player from '@assets/js/GameEnginev1.1/essentials/Player.js';
 import Npc from '@assets/js/GameEnginev1.1/essentials/Npc.js';
 import GameControl from '@assets/js/GameEnginev1.1/essentials/GameControl.js';
-import Shark from '@assets/js/GameEnginev1.1/Shark.js';
+import piranha from '@assets/js/GameEnginev1.1/piranha.js';
 import GameLevelStarWars from './GameLevelStarWars.js';
 
 class GameLevelWater {
@@ -87,12 +87,12 @@ class GameLevelWater {
         }
       };
 
-     // Shark Data
-    const sprite_src_shark = path + "/images/projects/gamify/water/piranhas.png"; // be sure to include the path
-    const sprite_data_shark = {
-        id: 'Shark',
-        greeting: "Enemy Shark",
-        src: sprite_src_shark,
+     // piranha Data
+    const sprite_src_piranha = path + "/images/projects/gamify/water/piranhas.png"; // be sure to include the path
+    const sprite_data_piranha = {
+        id: 'Piranha',
+        greeting: "Enemy Piranha",
+        src: sprite_src_piranha,
         SCALE_FACTOR: 5,
         ANIMATION_RATE: 100,
         pixels: {height: 225, width: 225},
@@ -103,7 +103,7 @@ class GameLevelWater {
         left: {row: 0, start: 0, columns: 1, wiggle: 0.005, mirror: true }, // mirror is used to flip the sprite
         hitbox: { widthPercentage: 0.25, heightPercentage: 0.55
          },
-          //walking area creates the box where the Shark can walk in 
+          //walking area creates the box where the piranha can walk in 
         walkingArea: {
             xMin: 0, //left boundary
             xMax: width, //right boundary 
@@ -181,7 +181,7 @@ const sprite_src_puffer = path + "/images/projects/gamify/water/puffer.png";
       { class: Player, data: sprite_data_octopus },
       { class: Npc, data: sprite_data_nomad },
       { class: Npc, data: sprite_data_nezuko },
-      { class: Shark, data: sprite_data_shark },
+      { class: piranha, data: sprite_data_piranha },
       { class: Npc, data: sprite_data_gold }
     ];
   }
