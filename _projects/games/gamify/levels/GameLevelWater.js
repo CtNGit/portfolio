@@ -17,7 +17,7 @@ class GameLevelWater {
     let path = gameEnv.path;
 
     // Background data
-    const image_src_water = path + "/images/projects/gamify/water/deepseadungeon.jpeg";
+    const image_src_water = path + "/images/projects/gamify/water/coralreef.jpg";
     const image_data_water = {
         id: 'Water',
         src: image_src_water,
@@ -88,7 +88,7 @@ class GameLevelWater {
       };
 
      // Shark Data
-    const sprite_src_shark = path + "/images/projects/gamify/water/shark.png"; // be sure to include the path
+    const sprite_src_shark = path + "/images/projects/gamify/water/piranhas.png"; // be sure to include the path
     const sprite_data_shark = {
         id: 'Shark',
         greeting: "Enemy Shark",
