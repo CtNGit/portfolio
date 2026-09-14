@@ -21,7 +21,7 @@ class GameLevelWater {
     const image_data_water = {
         id: 'Water',
         src: image_src_water,
-        pixels: {height: 597, width: 340}
+        pixels: {height: 1024, width: 559}
     };
 
     // Player Data for Octopus
@@ -88,7 +88,7 @@ class GameLevelWater {
       };
 
      // Shark Data
-    const sprite_src_shark = path + "/images/projects/gamify/water/piranhas.png"; // be sure to include the path
+    const sprite_src_shark = path + "/images/projects/gamify/water/piranhas-removebg-preview.png"; // be sure to include the path
     const sprite_data_shark = {
         id: 'Shark',
         greeting: "Enemy Shark",
