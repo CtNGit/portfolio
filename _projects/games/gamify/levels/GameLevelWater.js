@@ -21,7 +21,7 @@ class GameLevelWater {
     const image_data_water = {
         id: 'Water',
         src: image_src_water,
-        pixels: {height: 1024, width: 559}
+        pixels: {height: 597, width: 340}
     };
 
     // Player Data for Octopus
@@ -95,7 +95,7 @@ class GameLevelWater {
         src: sprite_src_shark,
         SCALE_FACTOR: 5,
         ANIMATION_RATE: 100,
-        pixels: {height: 512, width: 344},
+        pixels: {height: 225, width: 225},
         INIT_POSITION: { x: 100, y: 100},
         orientation: {rows: 1, columns: 1 },
         down: {row: 0, start: 0, columns: 1, wiggle: 0.005 },
