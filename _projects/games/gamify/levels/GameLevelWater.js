@@ -100,7 +100,7 @@ class GameLevelWater {
         orientation: {rows: 1, columns: 1 },
         down: {row: 0, start: 0, columns: 1, wiggle: 0.005 },
         right: {row: 0, start: 0, columns: 1, wiggle: 0.005 },
-        left: {row: 0, start: 0, columns: 1, wiggle: 0.005, mirror: false }, // mirror is used to flip the sprite
+        left: {row: 0, start: 0, columns: 1, wiggle: 0.005, mirror: true }, // mirror is used to flip the sprite
         hitbox: { widthPercentage: 0.25, heightPercentage: 0.55
          },
           //walking area creates the box where the Shark can walk in 
