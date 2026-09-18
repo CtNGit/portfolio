@@ -17,7 +17,7 @@ class GameLevelWater {
     let path = gameEnv.path;
 
     // Background data
-    const image_src_water = path + "/images/projects/gamify/water/coralreef.jpg";
+    const image_src_water = path + "/images/projects/gamify/water/coralreef (1).jpg";
     const image_data_water = {
         id: 'Water',
         src: image_src_water,
